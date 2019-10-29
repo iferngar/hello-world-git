@@ -38,3 +38,5 @@ texto ~~tachado~~
 [LINK MARKDOWN](http://www.google.com)
 
 [LINK INDEX](index.html)
+
+![Logo github](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
