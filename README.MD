@@ -25,3 +25,16 @@ ___texto strong italica___
 texto ~~tachado~~
 
 
+1. Item
+2. Item
+3. Item
+
+- Item
+- Item
+- Item
+
+<a href="http://www.google.com">LINK HTML</a>
+
+[LINK MARKDOWN](http://www.google.com)
+
+[LINK INDEX](index.html)
